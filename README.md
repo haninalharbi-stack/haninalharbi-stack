@@ -18,7 +18,7 @@ A passionate Computer Science graduate and IT Specialist dedicated to designing 
 | Category | Technologies & Tools |
 | :--- | :--- |
 | **AI & Intelligent Systems** | Machine Learning, LightGBM, SHAP (Explainable AI), Exploring Deep Learning Models |
-| **Programming Languages** | Python (Certified), Java, PHP, JavaScript |
+| **Programming Languages** | Python, Java, PHP, JavaScript |
 | **Frameworks & Mobile** | Flutter, JavaFX (3D Graphics), HTML5 / CSS3 |
 | **Databases & Infrastructure** | MySQL, Firebase, Computer Networking |
 | **Bootcamps & Training** | Frontend Development (Hash Plus), Python Specialization (University of Michigan) |
