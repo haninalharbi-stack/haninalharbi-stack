@@ -1,27 +1,26 @@
-# Hi there, I'm Hanin Alharbi 👋 ✨
-**Computer Science Graduate | AI Engineering & Software Development**
+# Hi there, I'm Hanin Alharbi 👋✨
 
-A passionate Computer Science graduate and IT Specialist dedicated to designing secure digital platforms, driving digital transformation, and engineering intelligent enterprise solutions. I focus on combining robust backend architectures with innovative Artificial Intelligence models to create impactful, data-driven applications.
+**Computer Science Graduate | AI & Machine Learning | Software Development**
+
+I'm a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy building practical applications that combine intelligent models with modern software solutions, with a focus on creating impactful and user-centered systems.
 
 ---
 
 ### 🚀 About Me
-- 🎓 **Education:** Bachelor’s degree in Computer Science & Diploma in Computer Networking from Taibah University.
-- 💡 **Core Interests:** Deeply invested in Artificial Intelligence, Machine Learning integration, Explainable AI (XAI), and secure software engineering.
-- 💼 **Experience:** Completed a 6-month IT Traineeship at the General Education Administration, managing database architectures and technical ecosystems.
-- ⚡ **Driven By:** The passion to optimize application performance and transform complex AI/ML logic into practical, production-ready solutions.
+- 🎓 Bachelor's degree in Computer Science & Diploma in Computer Networking from Taibah University.
+- 💡 Interested in AI, Machine Learning, Explainable AI (XAI), and Software Development.
+- 💼 Completed a 6-month IT traineeship at the General Administration of Education.
+- 🚀 Continuously learning and building projects to strengthen my technical skills.
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **AI & Intelligent Systems** | Machine Learning, LightGBM, SHAP (Explainable AI), Exploring Deep Learning Models |
-| **Programming Languages** | Python, Java, PHP, JavaScript |
-| **Frameworks & Mobile** | Flutter, JavaFX (3D Graphics), HTML5 / CSS3 |
-| **Databases & Infrastructure** | MySQL, Firebase, Computer Networking |
-| **Bootcamps & Training** | Frontend Development (Hash Plus), Python Specialization (University of Michigan) |
+- **AI & ML:** LightGBM, SHAP (Explainable AI), Machine Learning
+- **Languages:** Python, Java, PHP, JavaScript
+- **Frameworks:** Flutter, JavaFX, HTML, CSS
+- **Databases:** MySQL, Firebase
+- **Other:** Computer Networking, Git, GitHub
 
 ---
 
