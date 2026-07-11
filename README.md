@@ -1,6 +1,6 @@
 # Hi there, I'm Hanin Alharbi 👋✨
 
-**Computer Science Graduate | AI & Machine Learning | Software Development**
+**Computer Science Graduate | AI & Machine Learning | Software Development 
 
 I'm a Computer Science graduate passionate about Artificial Intelligence, Machine Learning, and Software Development. I enjoy building practical applications that combine intelligent models with modern software solutions, with a focus on creating impactful and user-centered systems.
 
